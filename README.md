@@ -1,7 +1,6 @@
 ### Hi there 👋
 - ME... criticalAY aka Ashish 
-- 🌱 I’m into open source
-- 👯 I’m looking to collaborate on Android Projects xD
+
 
 <!--
 **criticalAY/criticalAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
